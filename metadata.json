@@ -1,0 +1,7 @@
+{
+  "name": "Kellz Math Tutor AI",
+  "description": "An AI-powered math tutor that provides step-by-step guidance for specific problems and generates practice quizzes on various topics. It focuses on teaching the process of solving problems, not just giving answers, using an evidence-based instructional framework.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
